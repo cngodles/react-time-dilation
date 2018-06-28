@@ -1,0 +1,18 @@
+dependencies: \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/node_modules/react-native/Libraries/Text/TextInput/Singleline/RCTSinglelineTextInputView.m \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/node_modules/react-native/Libraries/Text/TextInput/Singleline/RCTSinglelineTextInputView.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/node_modules/react-native/Libraries/Text/TextInput/Singleline/RCTUITextField.h

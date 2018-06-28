@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.m \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryView.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryViewContent.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/mbp24chem/Documents/GitHub/react-time-dilation/node_modules/react-native/Libraries/Text/TextInput/RCTTextSelection.h
