@@ -1,0 +1,3 @@
+rootProject.name = 'react-time-dilation'
+
+include ':app'
